@@ -20,7 +20,9 @@ public class Basics {
 		
 		System.out.println(driver.findElement(By.cssSelector("div#error.loginError")).getText());
 		
-		System.out.println("qwerty");
+		System.out.println("qwerty1");
+		System.out.println("qwerty2");
+		System.out.println("qwerty3");
 		
 		//driver.quit();
 	}
