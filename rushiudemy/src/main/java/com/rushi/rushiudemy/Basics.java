@@ -28,7 +28,7 @@ public class Basics {
 		//driver.quit();
 	}
 	
-	public void abc() {
+	public static void abc() {
 		System.out.println("new method");
 	}
 
