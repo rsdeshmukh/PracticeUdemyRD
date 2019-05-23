@@ -34,7 +34,11 @@ public class Basics {
 	}
 	
 	public static void xyz() {
-		System.out.println("new branch");
+		System.out.println("Update branch");
+	}
+	
+	public static void xyz1() {
+		System.out.println("Update branch1");
 	}
 	
 
