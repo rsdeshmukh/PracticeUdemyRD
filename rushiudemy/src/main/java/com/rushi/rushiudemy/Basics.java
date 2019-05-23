@@ -25,11 +25,17 @@ public class Basics {
 		System.out.println("qwerty3");
 		
 		abc();
+		xyz();
 		//driver.quit();
 	}
 	
 	public static void abc() {
 		System.out.println("new method");
 	}
+	
+	public static void xyz() {
+		System.out.println("new branch");
+	}
+	
 
 }
