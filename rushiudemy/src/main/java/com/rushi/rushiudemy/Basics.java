@@ -24,7 +24,12 @@ public class Basics {
 		System.out.println("qwerty2");
 		System.out.println("qwerty3");
 		
+		abc();
 		//driver.quit();
+	}
+	
+	public void abc() {
+		System.out.println("new method");
 	}
 
 }
